@@ -27,7 +27,7 @@ A daily commitment to mastering the MERN stack and beyond. This repository track
 
 
 ## 📈 Proof of Work
-- **LinkedIn:** [Kunal](https://www.linkedin.com/in/kunal-kaloniya/)
-- **Portfolio:** [To be added]
+- **LinkedIn:** https://www.linkedin.com/in/kunal-kaloniya/
+- **Portfolio:** https://kunal-kaloniya.netlify.app
 
 > "Consistency is the only bridge between goals and accomplishment."
