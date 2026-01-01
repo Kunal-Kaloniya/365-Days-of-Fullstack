@@ -2,12 +2,12 @@
 A daily commitment to mastering the MERN stack and beyond. This repository tracks my journey from "knowing the stack" to "engineering the stack."
 
 ## 🎯 The 2026 Goals
-- [ ] Master Under-the-Hood JavaScript & React Optimization.
-- [ ] Build 3 Production-ready Portfolio Projects.
+- [ ] Transition from MERN-stack proficiency to a Full-Stack Architect role by mastering system design and advanced optimization.
+- [ ] Daily implementation of Data Structures & Algorithms (DSA) to solve one complex problem, focusing on time and space complexity.
+- [ ] Daily deep-dive into high-level architecture, security protocols, and DevOps best practices.
 - [ ] Maintain a 100% GitHub Contribution Streak.
 - [ ] Scale my Side Hustle to ₹5k+ monthly revenue.
 
----
 
 ## 📅 Monthly Progress Log
 
@@ -16,11 +16,8 @@ A daily commitment to mastering the MERN stack and beyond. This repository track
 
 | Day | Topic | Key Takeaway | Code Link |
 | :--- | :--- | :--- | :--- |
-| 01 | Repository Setup | Initialized my 2026 growth roadmap. | [Link](./Day01) |
-| 02 | The JS Event Loop | Understanding the Macrotask vs Microtask queue. | [Link](./Day02) |
-| 03 | Custom React Hooks | Built a `useLocalStorage` hook for persistence. | [Link](./Day03) |
+| 01 | Repository Setup | Initialized my 2026 growth roadmap. | [Link](./Day01-Setup) |
 
----
 
 ## 🛠 Tech Stack in Focus
 - **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit.
@@ -28,10 +25,9 @@ A daily commitment to mastering the MERN stack and beyond. This repository track
 - **Database:** MongoDB (Aggregation, Indexing), PostgreSQL (Prisma).
 - **DevOps:** Docker, AWS (EC2/S3), GitHub Actions.
 
----
 
 ## 📈 Proof of Work
 - **LinkedIn:** [Kunal](https://www.linkedin.com/in/kunal-kaloniya/)
-- **Portfolio:** [Your-Portfolio-URL.com]
+- **Portfolio:** [To be added]
 
 > "Consistency is the only bridge between goals and accomplishment."
