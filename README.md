@@ -17,6 +17,8 @@ A daily commitment to mastering the MERN stack and beyond. This repository track
 | Day | Topic | Key Takeaway | Code Link |
 | :--- | :--- | :--- | :--- |
 | 01 | Repository Setup | Initialized my 2026 growth roadmap. | [Link](./Day01-Setup) |
+| 02 | Event Loop | Call Stack, Microtask and Macrotask | [Link](./Day02-Event-Loop) |
+| 03 | Closures | Uses of closures and why it matters? | [Link](./Day03-Closures) |
 
 
 ## 🛠 Tech Stack in Focus
