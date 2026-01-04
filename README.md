@@ -9,18 +9,6 @@ A daily commitment to mastering the MERN stack and beyond. This repository track
 - [ ] Scale my Side Hustle to ₹5k+ monthly revenue.
 
 
-## 📅 Monthly Progress Log
-
-### January: The "Under the Hood" Month
-*Focus: Deep Dive JavaScript, Node.js internals, and Advanced React.*
-
-| Day | Topic | Key Takeaway | Code Link |
-| :--- | :--- | :--- | :--- |
-| 01 | Repository Setup | Initialized my 2026 growth roadmap. | [Link](./Day01-Setup) |
-| 02 | Event Loop | Call Stack, Microtask and Macrotask | [Link](./Day02-Event-Loop) |
-| 03 | Closures | Uses of closures and why it matters? | [Link](./Day03-Closures) |
-
-
 ## 🛠 Tech Stack in Focus
 - **Frontend:** React.js, Next.js, Tailwind CSS, Redux Toolkit.
 - **Backend:** Node.js, Express.js, TypeScript.
