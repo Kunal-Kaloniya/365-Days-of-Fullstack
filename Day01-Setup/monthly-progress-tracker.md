@@ -10,3 +10,4 @@
 | 03 | Closures | Uses of closures and why it matters? | [Link](./Day03-Closures) |
 | 04 | Prototypes | Introduction to prototype chaining | [Link](./Day04-Prototypes) |
 | 05 | this and arrow functions | Intro to this, rules of binding and arrow function exception | [Link](./Day05-this-and-arrowFn) |
+| 06 | Async Await | Insights about async and await in JS | [Link](./Day06-AsyncAwait) |
