@@ -8,3 +8,4 @@
 | 04-Jan | 26 | Remove Duplicates From a Sorted Array | Leetcode | Easy | O(n) | ✅ |
 | 05-Jan | 27 | Remove Element | Leetcode | Easy | O(n) | ✅ |
 | 06-Jan | 28 | Find the Index of the First Occurrence in a String | Leetcode | Easy | O(1) | ✅ |
+| 07-Jan | 35 | Search Insert Position | Leetcode | O(log n) | ✅ |
