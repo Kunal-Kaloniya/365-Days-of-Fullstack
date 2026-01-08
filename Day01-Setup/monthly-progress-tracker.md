@@ -12,3 +12,4 @@
 | 05 | this and arrow functions | Intro to this, rules of binding and arrow function exception | [Link](./Day05-this-and-arrowFn) |
 | 06 | Async Await | Insights about async and await in JS | [Link](./Day06-AsyncAwait) |
 | 07 | Node.js Streams and Buffers | Learned about the difference between streams and buffers | [Link](./Day07-Streams) |
+| 08 | Redis Caching | Learned about Redis caching and its benefits | [Link](./Day08-Redis-Caching) |
