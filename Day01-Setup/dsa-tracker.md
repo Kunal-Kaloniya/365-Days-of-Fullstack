@@ -10,3 +10,4 @@
 | 06-Jan | 28 | Find the Index of the First Occurrence in a String | Leetcode | Easy | O(1) | ✅ |
 | 07-Jan | 35 | Search Insert Position | Leetcode | O(log n) | ✅ |
 | 08-Jan | 58 | Length of Last Word | Leetcode | O(1) | ✅ |
+| 09-Jan | 66 | Plus One | Leetcode | O(1) | ✅ |
