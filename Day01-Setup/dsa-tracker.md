@@ -11,3 +11,4 @@
 | 07-Jan | 35 | Search Insert Position | Leetcode | O(log n) | ✅ |
 | 08-Jan | 58 | Length of Last Word | Leetcode | O(1) | ✅ |
 | 09-Jan | 66 | Plus One | Leetcode | O(1) | ✅ |
+| 10-Jan | 67 | Add Binary | Leetcode | O(max(m, n)) | ✅ |
