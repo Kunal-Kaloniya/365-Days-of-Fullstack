@@ -14,4 +14,5 @@
 | 07 | Node.js Streams and Buffers | Learned about the difference between streams and buffers | [Link](./Day07-Streams) |
 | 08 | Redis Caching | Learned about Redis caching and its benefits | [Link](./Day08-Redis-Caching) |
 | 09 | The Middleware Sieve | Learned about rate limiter and helmet | [Link](./Day09-Defensive-Backend) |
-| 10 | Logging and Observability | Understood about logging using Winston/Morgan | [Link](./Day09-Observability) |
+| 10 | Logging and Observability | Understood about logging using Winston/Morgan | [Link](./Day010-Observability) |
+| 11 | MongoDB Indexing & Query | About B-Tree indexing | [Link](./Day11-DB-Optimization) |
