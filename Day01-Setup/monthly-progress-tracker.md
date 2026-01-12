@@ -16,3 +16,4 @@
 | 09 | The Middleware Sieve | Learned about rate limiter and helmet | [Link](./Day09-Defensive-Backend) |
 | 10 | Logging and Observability | Understood about logging using Winston/Morgan | [Link](./Day010-Observability) |
 | 11 | MongoDB Indexing & Query | About B-Tree indexing | [Link](./Day11-DB-Optimization) |
+| 12 | Auth Security | About cookies with httpOnly and sameSite | [Link](./Day12-Auth-Security) |
