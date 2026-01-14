@@ -15,3 +15,4 @@
 | 11-Jan | 69 | Sqrt(x) | Leetcode | O(log n) | ✅ |
 | 12-Jan | 70 | Climbing Stairs | Leetcode | O(n) | ✅ |
 | 13-Jan | 83 | Remove Duplicates from Sorted List | Leetcode | O(n) | ✅ |
+| 14-Jan | 88 | Merge Sorted Arrays | Leetcode | O(m + n) | ✅ |

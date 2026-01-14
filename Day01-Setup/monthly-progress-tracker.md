@@ -18,3 +18,4 @@
 | 11 | MongoDB Indexing & Query | About B-Tree indexing | [Link](./Day11-DB-Optimization) |
 | 12 | Auth Security | About cookies with httpOnly and sameSite | [Link](./Day12-Auth-Security) |
 | 13 | WebSockets vs Polling | Intro to sockets | [Link](./Day13-RealTime) |
+| 14 | WebSockets and Redis Adapters | Learned about horizontal scaling in WebSockets using Redis Adapters | [Link](./Day14-WebSockets-Scaling) |
