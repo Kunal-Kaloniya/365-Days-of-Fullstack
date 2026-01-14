@@ -8,11 +8,11 @@
 | 04-Jan | 26 | Remove Duplicates From a Sorted Array | Leetcode | Easy | O(n) | ✅ |
 | 05-Jan | 27 | Remove Element | Leetcode | Easy | O(n) | ✅ |
 | 06-Jan | 28 | Find the Index of the First Occurrence in a String | Leetcode | Easy | O(1) | ✅ |
-| 07-Jan | 35 | Search Insert Position | Leetcode | O(log n) | ✅ |
-| 08-Jan | 58 | Length of Last Word | Leetcode | O(1) | ✅ |
-| 09-Jan | 66 | Plus One | Leetcode | O(1) | ✅ |
-| 10-Jan | 67 | Add Binary | Leetcode | O(max(m, n)) | ✅ |
-| 11-Jan | 69 | Sqrt(x) | Leetcode | O(log n) | ✅ |
-| 12-Jan | 70 | Climbing Stairs | Leetcode | O(n) | ✅ |
-| 13-Jan | 83 | Remove Duplicates from Sorted List | Leetcode | O(n) | ✅ |
-| 14-Jan | 88 | Merge Sorted Arrays | Leetcode | O(m + n) | ✅ |
+| 07-Jan | 35 | Search Insert Position | Leetcode | Easy | O(log n) | ✅ |
+| 08-Jan | 58 | Length of Last Word | Leetcode | Easy | O(1) | ✅ |
+| 09-Jan | 66 | Plus One | Leetcode | Easy | O(1) | ✅ |
+| 10-Jan | 67 | Add Binary | Leetcode | Easy | O(max(m, n)) | ✅ |
+| 11-Jan | 69 | Sqrt(x) | Leetcode | Easy | O(log n) | ✅ |
+| 12-Jan | 70 | Climbing Stairs | Leetcode | Easy | O(n) | ✅ |
+| 13-Jan | 83 | Remove Duplicates from Sorted List | Leetcode | Easy | O(n) | ✅ |
+| 14-Jan | 88 | Merge Sorted Arrays | Leetcode | Easy | O(m + n) | ✅ |
