@@ -20,3 +20,4 @@
 | 13 | WebSockets vs Polling | Intro to sockets | [Link](../Day13-RealTime) |
 | 14 | WebSockets and Redis Adapters | Learned about horizontal scaling in WebSockets using Redis Adapters | [Link](../Day14-WebSockets-Scaling) |
 | 15 | Socket Security & Namespaces | Namespaces vs. Rooms, Connection Middlewares | [Link](../Day15-Secure-WebSockets) |
+| 16 | The Rending Strategies | CSR, SSR and SSG | [Link](../Day16-Rendering-Strategies) |

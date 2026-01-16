@@ -17,3 +17,4 @@
 | 13-Jan | 83 | Remove Duplicates from Sorted List | Leetcode | Easy | O(n) | ✅ |
 | 14-Jan | 88 | Merge Sorted Arrays | Leetcode | Easy | O(m + n) | ✅ |
 | 15-Jan | 94 | Binary Tree Inorder Traversal | Leetcode | Easy | O(n) | ✅ |
+| 16-Jan | 100 | Same Tree | Leetcode | Easy | O(n) | ✅ |
