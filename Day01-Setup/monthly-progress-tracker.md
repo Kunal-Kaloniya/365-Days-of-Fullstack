@@ -21,3 +21,4 @@
 | 14 | WebSockets and Redis Adapters | Learned about horizontal scaling in WebSockets using Redis Adapters | [Link](../Day14-WebSockets-Scaling) |
 | 15 | Socket Security & Namespaces | Namespaces vs. Rooms, Connection Middlewares | [Link](../Day15-Secure-WebSockets) |
 | 16 | The Rending Strategies | CSR, SSR and SSG | [Link](../Day16-Rendering-Strategies) |
+| 17 | NextJS & The Hydration Mystery | The Hydration problem in SSR and using useEffect | [Link](../Day17-NextJS-Hydration) |
