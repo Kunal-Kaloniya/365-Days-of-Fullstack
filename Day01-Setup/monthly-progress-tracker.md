@@ -22,3 +22,4 @@
 | 15 | Socket Security & Namespaces | Namespaces vs. Rooms, Connection Middlewares | [Link](../Day15-Secure-WebSockets) |
 | 16 | The Rending Strategies | CSR, SSR and SSG | [Link](../Day16-Rendering-Strategies) |
 | 17 | NextJS & The Hydration Mystery | The Hydration problem in SSR and using useEffect | [Link](../Day17-NextJS-Hydration) |
+| 18 | Next.js API Routes (The "BFF" Pattern) | Serverless Functions and Proxy | [Link](../Day18-NextJS-APIs) |

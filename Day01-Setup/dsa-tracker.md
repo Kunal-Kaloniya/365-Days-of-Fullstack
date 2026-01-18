@@ -19,3 +19,4 @@
 | 15-Jan | 94 | Binary Tree Inorder Traversal | Leetcode | Easy | O(n) | ✅ |
 | 16-Jan | 100 | Same Tree | Leetcode | Easy | O(n) | ✅ |
 | 17-Jan | 2 | Add Two Numbers | Leetcode | Medium | O(max(m, n)) | ✅ |
+| 18-Jan | 3 | Longest Substring Without Reapeating Characters | Leetcode | Medium | O(n) | ✅ |
