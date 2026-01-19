@@ -23,3 +23,4 @@
 | 16 | The Rending Strategies | CSR, SSR and SSG | [Link](../Day16-Rendering-Strategies) |
 | 17 | NextJS & The Hydration Mystery | The Hydration problem in SSR and using useEffect | [Link](../Day17-NextJS-Hydration) |
 | 18 | Next.js API Routes (The "BFF" Pattern) | Serverless Functions and Proxy | [Link](../Day18-NextJS-APIs) |
+| 19 | Server Components vs Client Components | Server components, Client components and their benefits | [Link](../Day19-Server-Components) |
