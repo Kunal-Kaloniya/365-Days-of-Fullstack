@@ -24,3 +24,4 @@
 | 17 | NextJS & The Hydration Mystery | The Hydration problem in SSR and using useEffect | [Link](../Day17-NextJS-Hydration) |
 | 18 | Next.js API Routes (The "BFF" Pattern) | Serverless Functions and Proxy | [Link](../Day18-NextJS-APIs) |
 | 19 | Server Components vs Client Components | Server components, Client components and their benefits | [Link](../Day19-Server-Components) |
+| 20 | Server Actions & Security | Server Actions and Closure-based security | [Link](../Day20-Server-Actions) |
