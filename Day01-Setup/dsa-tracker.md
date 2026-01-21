@@ -22,3 +22,4 @@
 | 18-Jan | 3 | Longest Substring Without Reapeating Characters | Leetcode | Medium | O(n) | ✅ |
 | 19-Jan | 5 | Longest Palindromic SubString | Leetcode | Medium | O(n^2) | ✅ |
 | 20-Jan | 6 | Zigzag Conversion | Leetcode | Medium | O(n) | ✅ |
+| 21-Jan | 7 | Reverse Integer | Leetcode | Medium | O(log n) | ✅ |

@@ -25,3 +25,4 @@
 | 18 | Next.js API Routes (The "BFF" Pattern) | Serverless Functions and Proxy | [Link](../Day18-NextJS-APIs) |
 | 19 | Server Components vs Client Components | Server components, Client components and their benefits | [Link](../Day19-Server-Components) |
 | 20 | Server Actions & Security | Server Actions and Closure-based security | [Link](../Day20-Server-Actions) |
+| 21 | Next.js Middleware & Edge Routine | The gatekeeper (i.e. middleware) and the use cases | [Link](../Day21-Middleware-Edge) |
