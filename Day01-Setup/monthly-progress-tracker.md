@@ -27,3 +27,4 @@
 | 20 | Server Actions & Security | Server Actions and Closure-based security | [Link](../Day20-Server-Actions) |
 | 21 | Next.js Middleware & Edge Routine | The gatekeeper (i.e. middleware) and the use cases | [Link](../Day21-Middleware-Edge) |
 | 22 | ISR | Incremental Static Regeneration and the Background Refresh | [Link](../Day22-ISR-Dynamic-Routing) |
+| 23 | MongoDB Aggregations | $match, $group, $sort, $limit, $lookup | [Link](../Day23-Mongo-Aggregations) |

@@ -24,3 +24,4 @@
 | 20-Jan | 6 | Zigzag Conversion | Leetcode | Medium | O(n) | ✅ |
 | 21-Jan | 7 | Reverse Integer | Leetcode | Medium | O(log n) | ✅ |
 | 22-Jan | 8 | String to Integer (Atoi) | Leetcode | Medium | O(n) | ✅ |
+| 23-Jan | 10 | Container with Most Water | Leetcode | Medium | O(n) | ✅ |
