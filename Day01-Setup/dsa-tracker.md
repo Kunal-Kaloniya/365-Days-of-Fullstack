@@ -25,3 +25,4 @@
 | 21-Jan | 7 | Reverse Integer | Leetcode | Medium | O(log n) | ✅ |
 | 22-Jan | 8 | String to Integer (Atoi) | Leetcode | Medium | O(n) | ✅ |
 | 23-Jan | 10 | Container with Most Water | Leetcode | Medium | O(n) | ✅ |
+| 24-Jan | 12 | Integer to Roman | Leetcode | Medium | O(1) | ✅ |
