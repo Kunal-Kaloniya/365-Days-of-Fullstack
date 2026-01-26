@@ -27,3 +27,4 @@
 | 23-Jan | 10 | Container with Most Water | Leetcode | Medium | O(n) | ✅ |
 | 24-Jan | 12 | Integer to Roman | Leetcode | Medium | O(1) | ✅ |
 | 25-Jan | 15 | 3 Sum | Leetcode | Medium | O(n^2) | ✅ |
+| 26-Jan | 16 | 3 Sum Closest | Leetcode | Medium | O(n^2) | ✅ |
