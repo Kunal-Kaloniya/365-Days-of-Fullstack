@@ -32,3 +32,4 @@
 | 25 | React Query | Server-State vs UI-State | [Link](../Day25-React-Query/cache-logic.js) |
 | 26 | Instant Feedback | Optimistic-UI with React Query | [Link](../Day26-Optimistic-UI/instant-feedback.js) |
 | 27 | The Repository Pattern | Controller, Service and Repository | [Link](../Day27-Repository-Pattern/clean-architecture.js) |
+| 28 | S3 Uploads | AWS S3 and Presigned URLs | [Link](../Day28-S3-Uploads/presigned-urls.js) |

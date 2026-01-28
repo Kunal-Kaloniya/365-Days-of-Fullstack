@@ -29,3 +29,4 @@
 | 25-Jan | 15 | 3 Sum | Leetcode | Medium | O(n^2) | ✅ |
 | 26-Jan | 16 | 3 Sum Closest | Leetcode | Medium | O(n^2) | ✅ |
 | 27-Jan | 17 | Letter Combinations of a Phone Number | Medium | O(4^n) | ✅ |
+| 28-Jan | 18 | 4Sum | Medium | O(n^3) | ✅ |
