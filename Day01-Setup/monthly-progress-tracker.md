@@ -33,3 +33,4 @@
 | 26 | Instant Feedback | Optimistic-UI with React Query | [Link](../Day26-Optimistic-UI/instant-feedback.js) |
 | 27 | The Repository Pattern | Controller, Service and Repository | [Link](../Day27-Repository-Pattern/clean-architecture.js) |
 | 28 | S3 Uploads | AWS S3 and Presigned URLs | [Link](../Day28-S3-Uploads/presigned-urls.js) |
+| 29 | Message Queues with BullMQ | Product-Consumer Pattern | [Link](../Day29-Message-Queues/bullmq-worker.js) |
