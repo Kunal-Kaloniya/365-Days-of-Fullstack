@@ -31,3 +31,4 @@
 | 27-Jan | 17 | Letter Combinations of a Phone Number | Medium | O(4^n) | ✅ |
 | 28-Jan | 18 | 4Sum | Medium | O(n^3) | ✅ |
 | 29-Jan | 19 | Remove Nth Node From End of List | Medium | O(L) | ✅ |
+| 30-Jan | 22 | Generate Parentheses | Medium | - | ✅ |

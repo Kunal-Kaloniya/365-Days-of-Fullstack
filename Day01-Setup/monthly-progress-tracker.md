@@ -34,3 +34,4 @@
 | 27 | The Repository Pattern | Controller, Service and Repository | [Link](../Day27-Repository-Pattern/clean-architecture.js) |
 | 28 | S3 Uploads | AWS S3 and Presigned URLs | [Link](../Day28-S3-Uploads/presigned-urls.js) |
 | 29 | Message Queues with BullMQ | Product-Consumer Pattern | [Link](../Day29-Message-Queues/bullmq-worker.js) |
+| 30 | The Production Readiness Audit | 12-Factor App Methodology | [Link](../Day30-Production-Audit/health-check.js) |
