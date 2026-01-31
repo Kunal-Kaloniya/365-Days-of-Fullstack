@@ -32,3 +32,4 @@
 | 28-Jan | 18 | 4Sum | Medium | O(n^3) | ✅ |
 | 29-Jan | 19 | Remove Nth Node From End of List | Medium | O(L) | ✅ |
 | 30-Jan | 22 | Generate Parentheses | Medium | - | ✅ |
+| 31-Jan | 24 | Swap Nodes In Pairs | Medium | O(n) | ✅ |
