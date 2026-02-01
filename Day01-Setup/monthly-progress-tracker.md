@@ -36,3 +36,10 @@
 | 29 | Message Queues with BullMQ | Product-Consumer Pattern | [Link](../Day29-Message-Queues/bullmq-worker.js) |
 | 30 | The Production Readiness Audit | 12-Factor App Methodology | [Link](../Day30-Production-Audit/health-check.js) |
 | 31 | Global Exception Filters | Centralized Error Mapping | [Link](../Day31-Global-Errors/error-handler.js) |
+
+### February: The "Environment" Month
+*Focus: how we package, ship, and scale that stack*
+
+| Day | Topic | Key Takeaway | Code Link |
+| :--- | :--- | :--- | :--- |
+| 01 | Dockerization the MERN Stack | Containerization vs. Virtualization | [Link](../Day32-Docker-Basics/Dockerfile) |

@@ -33,3 +33,4 @@
 | 29-Jan | 19 | Remove Nth Node From End of List | Medium | O(L) | ✅ |
 | 30-Jan | 22 | Generate Parentheses | Medium | - | ✅ |
 | 31-Jan | 24 | Swap Nodes In Pairs | Medium | O(n) | ✅ |
+| 01-Feb | 29 | Divide Two Integers | Medium | O((log n)^2) | ✅ |
