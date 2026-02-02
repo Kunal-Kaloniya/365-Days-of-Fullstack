@@ -1,0 +1,41 @@
+# === Docker Compose & Networking ===
+# Docker Compose is a tool for defining and running multi-container Docker applications.
+# It allows you to create and isolated network where your containers can "talk" to each other using their service names instead of unstable IP addresses.
+# 
+# === Service Discovery ===
+# When you run MongoDB in a container named mongodb, your Node.js app doesn't connect to localhost:27017.
+# It connects to mongodb:27017. Docker handles the internal DNS.
+# 
+# 1. Volumes: Persist your database data even if the container is deleted.
+# 2. Depends_on: Ensure the Database starts before the App.
+# 3. Environment Files: Centralize all secrets in one .env file mapped to the containers.
+# 
+
+
+# MICROLAB
+# Create a docker-compose.yml that links your Next.js app, a MongoDB instancem, and a Redis instance.
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGO_URI=mongodb://db:27017/mern_db
+      - REDIS_URL=redis://cache:6379
+    depends_on:
+      - db
+      - cache
+
+  db:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  cache:
+    image: redis:alpine
+
+volumes:
+  mongo-data:
