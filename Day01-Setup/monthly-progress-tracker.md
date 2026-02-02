@@ -43,3 +43,4 @@
 | Day | Topic | Key Takeaway | Code Link |
 | :--- | :--- | :--- | :--- |
 | 01 | Dockerization the MERN Stack | Containerization vs. Virtualization | [Link](../Day32-Docker-Basics/Dockerfile) |
+| 02 | Docker Compose & Networking | Service Discovery: Volumes, Depends_on and Environment Files | [Link](../Day33-Docker-Compose/docker-compose.yml) |

@@ -28,9 +28,11 @@
 | 24-Jan | 12 | Integer to Roman | Leetcode | Medium | O(1) | ✅ |
 | 25-Jan | 15 | 3 Sum | Leetcode | Medium | O(n^2) | ✅ |
 | 26-Jan | 16 | 3 Sum Closest | Leetcode | Medium | O(n^2) | ✅ |
-| 27-Jan | 17 | Letter Combinations of a Phone Number | Medium | O(4^n) | ✅ |
-| 28-Jan | 18 | 4Sum | Medium | O(n^3) | ✅ |
-| 29-Jan | 19 | Remove Nth Node From End of List | Medium | O(L) | ✅ |
-| 30-Jan | 22 | Generate Parentheses | Medium | - | ✅ |
-| 31-Jan | 24 | Swap Nodes In Pairs | Medium | O(n) | ✅ |
-| 01-Feb | 29 | Divide Two Integers | Medium | O((log n)^2) | ✅ |
+| 27-Jan | 17 | Letter Combinations of a Phone Number | Leetcode | Medium | O(4^n) | ✅ |
+| 28-Jan | 18 | 4Sum  | Leetcode | Medium | O(n^3) | ✅ |
+| 29-Jan | 19 | Remove Nth Node From End of List | Leetcode | Medium | O(L) | ✅ |
+| 30-Jan | 22 | Generate Parentheses | Leetcode | Medium | - | ✅ |
+| 31-Jan | 24 | Swap Nodes In Pairs | Leetcode | Medium | O(n) | ✅ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 01-Feb | 29 | Divide Two Integers | Leetcode | Medium | O((log n)^2) | ✅ |
+| 02-Feb | 31 | Next Permutation | Leetcode | Medium | O(n) | ✅ |
