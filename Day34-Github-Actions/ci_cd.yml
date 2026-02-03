@@ -1,0 +1,42 @@
+# === CI/CD with GitHub Actions ===
+# In a professional workflow, humans don't manually build Docker images or run tests before a release; Workflows do.
+#
+# === The Pipeline ===
+# A Pipeline is a series of automated steps triggered by a "Push" or "Pull Request."
+#
+# 1. Continuous Integration (CI): Automatically running npm test, linting,
+# and security scans (like npm audit) to ensure the new code doesn't break the existing build.
+#
+# 2. Continuous Deployment (CD): Once tests pass, the pipeline builds the Docker image and pushes it to a registry (like Docker Hub or AWS ECR),
+# then triggers a restart on the server.
+#
+
+
+# MICROLAB
+# Create a .github/workflows/main.yml file that triggers on every push to the main branch. It should:
+# 1. Install dependencies.
+# 2. Run your linter/tests.
+# 3. Build your Docker image (to verify the Dockerfile isn't broken).
+
+# file: .github/workflows/ci.yml
+name: Node.js CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test
+      
+      - name: Build Docker Image
+        run: docker build -t my-mern-app:latest .
