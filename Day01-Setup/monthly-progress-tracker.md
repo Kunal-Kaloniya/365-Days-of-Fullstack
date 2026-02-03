@@ -44,3 +44,4 @@
 | :--- | :--- | :--- | :--- |
 | 01 | Dockerization the MERN Stack | Containerization vs. Virtualization | [Link](../Day32-Docker-Basics/Dockerfile) |
 | 02 | Docker Compose & Networking | Service Discovery: Volumes, Depends_on and Environment Files | [Link](../Day33-Docker-Compose/docker-compose.yml) |
+| 03 | CI/CD with GitHub Actions | The Pipeline, CI/CD | [Link](../Day34-Github-Actions/ci_cd.yml) |

@@ -36,3 +36,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | 01-Feb | 29 | Divide Two Integers | Leetcode | Medium | O((log n)^2) | ✅ |
 | 02-Feb | 31 | Next Permutation | Leetcode | Medium | O(n) | ✅ |
+| 03-Feb | 33 | Search in Rotated Sorted Array | Leetcode | Medium | O(log n) | ✅ |
