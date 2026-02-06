@@ -47,3 +47,4 @@
 | 03 | CI/CD with GitHub Actions | The Pipeline, CI/CD | [Link](../Day34-Github-Actions/ci_cd.yml) |
 | 04 | Unit and Integration Testing | Red and Green Test, Refractor | [Link](../Day35-Testing-Jest/api.test.js) |
 | 05 | E2E Testing with Playwright | Headless Browser Automation | [Link](../Day36-E2E-Playwright/auth.spec.js) |
+| 06 | Swagger | API Documentation with Swagger | [Link](../Day37-Swagger-Docs/swagger-config.js) |

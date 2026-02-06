@@ -39,3 +39,4 @@
 | 03-Feb | 33 | Search in Rotated Sorted Array | Leetcode | Medium | O(log n) | ✅ |
 | 04-Feb | 34 | Find First and Last Position of Element in Sorted Array | Leetcode | Medium | O(log n) | ✅ |
 | 05-Feb | 36 | Valid Sudoku | Leetcode | Medium | O(1) | ✅ |
+| 06-Feb | 38 | Count and Say | Leetcode | Medium | O(2^n) | ✅ |
