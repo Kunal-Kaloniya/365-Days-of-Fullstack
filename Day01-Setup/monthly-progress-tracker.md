@@ -48,3 +48,5 @@
 | 04 | Unit and Integration Testing | Red and Green Test, Refractor | [Link](../Day35-Testing-Jest/api.test.js) |
 | 05 | E2E Testing with Playwright | Headless Browser Automation | [Link](../Day36-E2E-Playwright/auth.spec.js) |
 | 06 | Swagger | API Documentation with Swagger | [Link](../Day37-Swagger-Docs/swagger-config.js) |
+| 07 | Issues with the laptop | Trying to Dual-Boot Windows 10 but ran into some BIOS issues | --- |
+| 08 | Security | Rate Limiting and Throttle | [Link](../Day38-39-Security/rate-limiter.js) |

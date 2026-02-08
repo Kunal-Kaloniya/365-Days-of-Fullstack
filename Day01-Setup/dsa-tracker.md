@@ -33,10 +33,12 @@
 | 29-Jan | 19 | Remove Nth Node From End of List | Leetcode | Medium | O(L) | ✅ |
 | 30-Jan | 22 | Generate Parentheses | Leetcode | Medium | - | ✅ |
 | 31-Jan | 24 | Swap Nodes In Pairs | Leetcode | Medium | O(n) | ✅ |
-| --- | --- | --- | --- | --- | --- | --- |
+| === | === | === | === | === | === | === |
 | 01-Feb | 29 | Divide Two Integers | Leetcode | Medium | O((log n)^2) | ✅ |
 | 02-Feb | 31 | Next Permutation | Leetcode | Medium | O(n) | ✅ |
 | 03-Feb | 33 | Search in Rotated Sorted Array | Leetcode | Medium | O(log n) | ✅ |
 | 04-Feb | 34 | Find First and Last Position of Element in Sorted Array | Leetcode | Medium | O(log n) | ✅ |
 | 05-Feb | 36 | Valid Sudoku | Leetcode | Medium | O(1) | ✅ |
 | 06-Feb | 38 | Count and Say | Leetcode | Medium | O(2^n) | ✅ |
+| 07-Feb | - | - | - | - | - | - |
+| 08-Feb | 39 | Combination Sum | Leetcode | Medium | O( n^((T/M) + 1) ) | ✅ |
