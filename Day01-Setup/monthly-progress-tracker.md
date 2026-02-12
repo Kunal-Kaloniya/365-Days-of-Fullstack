@@ -53,3 +53,4 @@
 | 09 | Multi-Document Transactions | ACID Compliance | [Link](../Day40-DB-Transactions/atomic-updates.js) |
 | 10 | RBAC Security | Permission Based Authorization | [Link](../Day41-RBAC-Security/rbac-middleware.js) |
 | 11 | Real-time Socket.io & Event Rooms | Private Rooms & Event Emitting | [Link](../Day42-Socket-Notifications/socket-logic.js) |
+| 12 | Database Indexing & Explain Plans | B-Tree Indexing | [Link](../Day43-DB-Optimization/indexing.js) |

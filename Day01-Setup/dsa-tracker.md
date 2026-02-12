@@ -45,3 +45,4 @@
 | 09-Feb | 40 | Combination Sum II | Leetcode | Medium | O(2^n) | ✅ |
 | 10-Feb | 43 | Multiple Strings | Leetcode | Medium | O(m * n) | ✅ |
 | 11-Feb | 45 | Jump Game II | Leetcode | Medium | O(n) | ✅ |
+| 12-Feb | 46 | Permutations | Leetcode | Medium | O(n * n!) | ✅ |
