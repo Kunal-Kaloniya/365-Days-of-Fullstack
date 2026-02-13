@@ -46,3 +46,4 @@
 | 10-Feb | 43 | Multiple Strings | Leetcode | Medium | O(m * n) | ✅ |
 | 11-Feb | 45 | Jump Game II | Leetcode | Medium | O(n) | ✅ |
 | 12-Feb | 46 | Permutations | Leetcode | Medium | O(n * n!) | ✅ |
+| 13-Feb | 47 | Permutations II | Leetcode | Medium | O(n!) | ✅ |
