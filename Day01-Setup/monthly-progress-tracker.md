@@ -55,3 +55,4 @@
 | 11 | Real-time Socket.io & Event Rooms | Private Rooms & Event Emitting | [Link](../Day42-Socket-Notifications/socket-logic.js) |
 | 12 | Database Indexing & Explain Plans | B-Tree Indexing | [Link](../Day43-DB-Optimization/indexing.js) |
 | 13 | Distributed Rate Limiting (Redis) | Fixed Window vs. Sliding Window | [Link](../Day44-Redis-Security/distributed-limiter.js) |
+| 14 | Cron Jobs vs. BullMQ | Scheduled vs. Queued | [Link](../Day45-Cron-Jobs/scheduled-tasks.js) |
