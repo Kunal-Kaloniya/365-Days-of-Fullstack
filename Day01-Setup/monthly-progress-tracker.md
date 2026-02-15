@@ -56,3 +56,4 @@
 | 12 | Database Indexing & Explain Plans | B-Tree Indexing | [Link](../Day43-DB-Optimization/indexing.js) |
 | 13 | Distributed Rate Limiting (Redis) | Fixed Window vs. Sliding Window | [Link](../Day44-Redis-Security/distributed-limiter.js) |
 | 14 | Cron Jobs vs. BullMQ | Scheduled vs. Queued | [Link](../Day45-Cron-Jobs/scheduled-tasks.js) |
+| 15 | Next.js Image Magic & BlurHash | The LCP (Largest Contentful Paint) | [Link](../Day46-Image-Optimization/blur-optimization.tsx) |
