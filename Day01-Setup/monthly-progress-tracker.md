@@ -59,3 +59,4 @@
 | 15 | Next.js Image Magic & BlurHash | The LCP (Largest Contentful Paint) | [Link](../Day46-Image-Optimization/blur-optimization.tsx) |
 | 16 | Data Seeding with Faker.js | Deterministic Mocking | [Link](../Day47-Data-Seeding/seeder.js) |
 | 17 | The Query Builder Pattern | Query Object Manipulation | [Link](../Day48-Query-Builder/api-features.js) |
+| 18 | State Management with Zustand | The Store Pattern | [Link](../Day49-Zustand-State/authStore.js) |

@@ -51,3 +51,4 @@
 | 15-Feb | 49 | Group Anagrams | Leetcode | Medium | O(n * klogk) | ✅ |
 | 16-Feb | 50 | Pow(x, n) | Leetcode | Medium | O(log n) | ✅ |
 | 17-Feb | 53 | Maximum Subarray | Leetcode | Medium | O(n) | ✅ |
+| 18-Feb | 54 | Spiral Matrix | Leetcode | Medium | O(m * n) | ✅ |
