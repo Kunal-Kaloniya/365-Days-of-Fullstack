@@ -60,3 +60,4 @@
 | 16 | Data Seeding with Faker.js | Deterministic Mocking | [Link](../Day47-Data-Seeding/seeder.js) |
 | 17 | The Query Builder Pattern | Query Object Manipulation | [Link](../Day48-Query-Builder/api-features.js) |
 | 18 | State Management with Zustand | The Store Pattern | [Link](../Day49-Zustand-State/authStore.js) |
+| 19 | Rendering Patterns (SSR vs. CSR) | The Hydration Process | [Link](../Day50-Rendering-Patterns/ProductPage.tsx) |
