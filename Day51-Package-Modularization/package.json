@@ -1,0 +1,12 @@
+{
+  "name": "@your-username/mern-core",
+  "version": "1.0.0",
+  "description": "Core utilities for high-performance MERN apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "mongoose": "^8.0.0"
+  }
+}

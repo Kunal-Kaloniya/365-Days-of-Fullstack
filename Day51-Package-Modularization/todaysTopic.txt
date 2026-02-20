@@ -1,0 +1,16 @@
+=== Creating a Modular "Core" Library ===
+Instead of having your APIFeatures (Day 48) or AppError (Day 31) living inside one project, you are going to package them.
+This allows you to update your logic in one place and have it reflect across all your future microservices.
+
+=== Internal Shared Libraries ===
+Professional teams at companies like Google or Meta use "Monorepos" or "Private Registries" to share code.
+1. Separation of Concerns: Your business logic stays in the app; your "Infrastructure" logic stays in the library.
+2. Semantic Versioning (SemVer): Learning how to version your code (e.g., v1.0.1) so that updates don't break old projects.
+3. NPM Link: A tool to test your package locally in your app without actually publishing it to the internet yet.
+
+
+
+MICROLAB
+Initialize a separate folder mern-core, move your APIFeatures class into it, and link it to your main project.
+
+./package.json
