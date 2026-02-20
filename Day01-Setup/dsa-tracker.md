@@ -53,3 +53,4 @@
 | 17-Feb | 53 | Maximum Subarray | Leetcode | Medium | O(n) | ✅ |
 | 18-Feb | 54 | Spiral Matrix | Leetcode | Medium | O(m * n) | ✅ |
 | 19-Feb | 55 | Jump Game | Leetcode | Medium | O(n) | ✅ |
+| 20-Feb | 56 | Merge Intervals | Leetcode | Medium | O(n logn) | ✅ |

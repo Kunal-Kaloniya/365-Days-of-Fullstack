@@ -61,3 +61,4 @@
 | 17 | The Query Builder Pattern | Query Object Manipulation | [Link](../Day48-Query-Builder/api-features.js) |
 | 18 | State Management with Zustand | The Store Pattern | [Link](../Day49-Zustand-State/authStore.js) |
 | 19 | Rendering Patterns (SSR vs. CSR) | The Hydration Process | [Link](../Day50-Rendering-Patterns/ProductPage.tsx) |
+| 20 | Creating a Modular "Core" Library | Internal Shared Libraries | [Link](../Day51-Package-Modularization/package.json) |
