@@ -55,3 +55,4 @@
 | 19-Feb | 55 | Jump Game | Leetcode | Medium | O(n) | ✅ |
 | 20-Feb | 56 | Merge Intervals | Leetcode | Medium | O(n logn) | ✅ |
 | 21-Feb | 57 | Insert Interval | Leetcode | Medium | O(n) | ✅ |
+| 22-Feb | 59 | Spiral Matrix II | Leetcode | Medium | O(n^2) | ✅ |
