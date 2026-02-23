@@ -64,3 +64,4 @@
 | 20 | Creating a Modular "Core" Library | Internal Shared Libraries | [Link](../Day51-Package-Modularization/package.json) |
 | 21 | MongoDB Replica Sets | Distributed Data | [Link](../Day52-DB-Replication/connection.js) |
 | 22 | UI Designs Systems with CVA | Type-Safe Variants | [Link](../Day53-UI-Architecture/Button.tsx) |
+| 23 | Load Testing with K6 | Virtual Users (VUs) & Thresholds | [Link](../Day54-Performance-Testing/load-test.js) |
