@@ -65,3 +65,4 @@
 | 21 | MongoDB Replica Sets | Distributed Data | [Link](../Day52-DB-Replication/connection.js) |
 | 22 | UI Designs Systems with CVA | Type-Safe Variants | [Link](../Day53-UI-Architecture/Button.tsx) |
 | 23 | Load Testing with K6 | Virtual Users (VUs) & Thresholds | [Link](../Day54-Performance-Testing/load-test.js) |
+| 24 | Postman Workflows | Environment Decoupling | [Link](../Day55-Docs-With-Postman/postman_tests.js) |
