@@ -58,3 +58,4 @@
 | 22-Feb | 59 | Spiral Matrix II | Leetcode | Medium | O(n^2) | ✅ |
 | 23-Feb | 61 | Rotate List | Leetcode | Medium | O(n) | ✅ |
 | 24-Feb | 62 | Unique Paths | Leetcode | Medium | O(m * n) | ✅ |
+| 25-Feb | 63 | Unique Paths II | Leetcode | Medium | O(m * n) | ✅ |

@@ -66,3 +66,4 @@
 | 22 | UI Designs Systems with CVA | Type-Safe Variants | [Link](../Day53-UI-Architecture/Button.tsx) |
 | 23 | Load Testing with K6 | Virtual Users (VUs) & Thresholds | [Link](../Day54-Performance-Testing/load-test.js) |
 | 24 | Postman Workflows | Environment Decoupling | [Link](../Day55-Docs-With-Postman/postman_tests.js) |
+| 25 | Instant Search with Meilisearch | The Sidecar Search Pattern | [Link](../Day56-Instant-Search/search-sync.js) |
