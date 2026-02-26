@@ -59,3 +59,4 @@
 | 23-Feb | 61 | Rotate List | Leetcode | Medium | O(n) | ✅ |
 | 24-Feb | 62 | Unique Paths | Leetcode | Medium | O(m * n) | ✅ |
 | 25-Feb | 63 | Unique Paths II | Leetcode | Medium | O(m * n) | ✅ |
+| 26-Feb | 64 | Minimum Path Sum | Leetcode | Medium | O(m * n) | ✅ |
