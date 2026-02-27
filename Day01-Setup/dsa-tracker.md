@@ -60,3 +60,4 @@
 | 24-Feb | 62 | Unique Paths | Leetcode | Medium | O(m * n) | ✅ |
 | 25-Feb | 63 | Unique Paths II | Leetcode | Medium | O(m * n) | ✅ |
 | 26-Feb | 64 | Minimum Path Sum | Leetcode | Medium | O(m * n) | ✅ |
+| 27-Feb | 71 | Simplify Path | Leetcode | Medium | O(n) | ✅ |
