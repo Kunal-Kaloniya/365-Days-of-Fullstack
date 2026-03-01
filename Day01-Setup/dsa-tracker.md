@@ -62,3 +62,5 @@
 | 26-Feb | 64 | Minimum Path Sum | Leetcode | Medium | O(m * n) | ✅ |
 | 27-Feb | 71 | Simplify Path | Leetcode | Medium | O(n) | ✅ |
 | 28-Feb | 72 | Edit Distance | Leetcode | Medium | O(m * n) | ✅ |
+| === | === | === | === | === | === | === |
+| 01-Mar | 73 | Set Matrix Zeroes | Leetcode | Medium | O(m * n) | ✅ |

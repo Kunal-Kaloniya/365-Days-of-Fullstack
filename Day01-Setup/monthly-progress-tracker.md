@@ -70,3 +70,9 @@
 | 26 | The Accessibility Tree & ARIA | Semantic Foundations | [Link](../Day57-A11y-Semantic/AccessibleButton.tsx) |
 | 27 | Internationalization (i18n) | Translation Keys & Namespaces | [Link](../Day58-i18n-Global/i18n-config.js) |
 | 28 | Declarative Animations | The Animation Lifecycle | [Link](../Day59-Framer-Animations/StaggeredList.tsx) |
+
+### March
+
+| Day | Topic | Key Takeaway | Code Link |
+| :--- | :--- | :--- | :--- |
+| 1 | The Architectural Great Debate | Decomposition & Distributed Systems | [Link](../Day60-Monoliths-And-Microservices/TheArchitecturalDebate.txt) |
