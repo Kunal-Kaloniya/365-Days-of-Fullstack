@@ -69,3 +69,4 @@
 | 25 | Instant Search with Meilisearch | The Sidecar Search Pattern | [Link](../Day56-Instant-Search/search-sync.js) |
 | 26 | The Accessibility Tree & ARIA | Semantic Foundations | [Link](../Day57-A11y-Semantic/AccessibleButton.tsx) |
 | 27 | Internationalization (i18n) | Translation Keys & Namespaces | [Link](../Day58-i18n-Global/i18n-config.js) |
+| 28 | Declarative Animations | The Animation Lifecycle | [Link](../Day59-Framer-Animations/StaggeredList.tsx) |
