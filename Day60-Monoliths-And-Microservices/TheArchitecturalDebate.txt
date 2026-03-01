@@ -1,0 +1,19 @@
+=== The Architectural Great Debate ===
+When you start a company, you usually build a Monolith (one repo, one API, one database).
+As you grow, that monolith becomes a "Big Ball of Mud." Today, we analyze when and how to break it apart.
+
+=== Decomposition & Distributed Systems ===
+1. The Monolith: Everything is in one place. Easy to deploy, easy to test, but hard to scale parts of it independently.
+
+2. Microservices: The app is split by "Business Domains" (e.g., Auth Service, Payment Service, Inventory Service).
+
+3. The Trade-off: Microservices solve "Scaling Problems" but introduce "Communication Problems" (Network latency, Data consistency, and Distributed Tracing).
+
+
+MICROLAB
+Design the communication flow for a "Microservices" Order system.
+When a user buys something, how does the Order Service tell the Email Service to send a receipt without blocking the user?
+
+The Solution: Event-Driven Architecture (Pub/Sub)
+Instead of an HTTP call, the Order Service "publishes" a message to a Message Broker (like RabbitMQ or Redis Streams).
+The Email Service "subscribes" to that topic and picks it up when it's ready.
