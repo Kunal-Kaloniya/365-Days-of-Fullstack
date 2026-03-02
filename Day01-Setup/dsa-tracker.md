@@ -64,3 +64,4 @@
 | 28-Feb | 72 | Edit Distance | Leetcode | Medium | O(m * n) | ✅ |
 | === | === | === | === | === | === | === |
 | 01-Mar | 73 | Set Matrix Zeroes | Leetcode | Medium | O(m * n) | ✅ |
+| 02-Mar | 74 | Search a 2D Matrix | Leetcode | Medium | O(log(m * n)) | ✅ |

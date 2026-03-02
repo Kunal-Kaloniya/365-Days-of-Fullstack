@@ -75,4 +75,5 @@
 
 | Day | Topic | Key Takeaway | Code Link |
 | :--- | :--- | :--- | :--- |
-| 1 | The Architectural Great Debate | Decomposition & Distributed Systems | [Link](../Day60-Monoliths-And-Microservices/TheArchitecturalDebate.txt) |
+| 01 | The Architectural Great Debate | Decomposition & Distributed Systems | [Link](../Day60-Monoliths-And-Microservices/TheArchitecturalDebate.txt) |
+| 02 | OAuth 2.0 and Passport.js | The OAuth Handshake | [Link](../Day61-OAuth-Integration/passport-setup.js) |
