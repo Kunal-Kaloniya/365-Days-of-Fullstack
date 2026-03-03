@@ -1,0 +1,13 @@
+=== Nginx as a Reverse Proxy ===
+Nginx is a high-performance web server that acts as an intermediary.
+It takes the request from the user and "proxies" it to your internal Node.js process.
+
+=== The Shield & The Accelerator ===
+1. Security: Nginx hides the identify and characteristics of your backend server, protecting you from direct attacks.
+2. SSL Termination: Nginx handles the heavy encryption/decryption of HTTPS, freeing up your Node.js CPU for business logic.
+3. Static Asset Caching: Nginx is significantly faster at serving images/CSS than Node.js. It can serve the frontend while Node.js handles the API.
+4. Gzip Compression: Nginx compresses your data before sending it, making your site load faster for users with slow internet.
+
+
+MICROLAB
+Create an Nginx configuration file to route traffic to your MERN app running on port 3000.
