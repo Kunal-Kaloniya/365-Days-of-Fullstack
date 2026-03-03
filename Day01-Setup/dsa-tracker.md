@@ -65,3 +65,4 @@
 | === | === | === | === | === | === | === |
 | 01-Mar | 73 | Set Matrix Zeroes | Leetcode | Medium | O(m * n) | ✅ |
 | 02-Mar | 74 | Search a 2D Matrix | Leetcode | Medium | O(log(m * n)) | ✅ |
+| 03-Mar | 75 | Sort Colors | Leetcode | Medium | O(n) | ✅ |
