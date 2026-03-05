@@ -1,9 +1,9 @@
 # 🛠️ Development Environment
 
 ### Software & Tools
-- **OS:** Fedora Linux + Hyprland
+- **OS:** Fedora Linux + Niri
 - **Editor:** VS Code
-- **Terminal:** Zsh
+- **Terminal:** Fish
 - **Package Manager:** pnpm (for faster installations)
 
 ### Extensions
