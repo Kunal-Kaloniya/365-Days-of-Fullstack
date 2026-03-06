@@ -68,3 +68,4 @@
 | 03-Mar | 75 | Sort Colors | Leetcode | Medium | O(n) | ✅ |
 | 04-Mar | 77 | Combinations | Leetcode | Medium | O(k * (n/k)) | ✅ |
 | 05-Mar | 78 | Subsets | Leetcode | Medium | O(n * 2^n) | ✅ |
+| 06-Mar | 79 | Word Search | Leetcode | Medium | O(n * 3^l) | ✅ |

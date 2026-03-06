@@ -80,3 +80,4 @@
 | 03 | Nginx as a Reverse Proxy | The Shield & The Accelerator | [Link](../Day62-Nginx-ReverseProxy/nginx.conf) |
 | 04 | TOTP-based 2FA | The Secret Seed | [Link](../Day63-MFA-Security/two-factor.js) |
 | 05 | Multi-stage Docker Builds | The "Builder" Pattern | [Link](../Day64-Docker-Optimization/Dockerfile) |
+| 06 | Real-time Data Visualization | Teh Push-Stream Pattern | [Link](../Day65-Realtime-Charts/LiveDashboard.tsx) |
