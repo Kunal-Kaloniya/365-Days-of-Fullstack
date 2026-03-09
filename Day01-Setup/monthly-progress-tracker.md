@@ -83,3 +83,4 @@
 | 06 | Real-time Data Visualization | The Push-Stream Pattern | [Link](../Day65-Realtime-Charts/LiveDashboard.tsx) |
 | 07 | Integration Testing | The Test Database Lifecycle | [Link](../Day66-API-Testing/product.test.js) |
 | 08 | Drag-and-Drop (DnD) Architecture | Dnd Provider & Monitors | [Link](../Day67-DnD-UI/DraggableCard.tsx) |
+| 09 | High-Performance Image Processing | The Processing Buffer | [Link](../Day68-Image-Pipeline/uploadService.js) |
