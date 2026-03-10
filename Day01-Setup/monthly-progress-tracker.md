@@ -84,3 +84,4 @@
 | 07 | Integration Testing | The Test Database Lifecycle | [Link](../Day66-API-Testing/product.test.js) |
 | 08 | Drag-and-Drop (DnD) Architecture | Dnd Provider & Monitors | [Link](../Day67-DnD-UI/DraggableCard.tsx) |
 | 09 | High-Performance Image Processing | The Processing Buffer | [Link](../Day68-Image-Pipeline/uploadService.js) |
+| 10 | Webhook Architecture & Security | Trust but Verify | [Link](../Day69-Webhooks/stripeListener.js) |

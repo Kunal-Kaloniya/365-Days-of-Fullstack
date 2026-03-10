@@ -72,3 +72,4 @@
 | 07-Mar | 80 | Remove Duplicates from Sorted Array II | Leetcode | Medium | O(n) | ✅ |
 | 08-Mar | 81 | Search in Rotated Sorted Array II | Leetcode | Medium | O(n) | ✅ |
 | 09-Mar | 82 | Search in Rotated Sorted List II | Leetcode | Medium | O(n) | ✅ |
+| 10-Mar | 86 | Partition List | Leetcode | Medium | O(n) | ✅ |
