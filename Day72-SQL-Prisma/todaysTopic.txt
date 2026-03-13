@@ -1,0 +1,18 @@
+=== Moving to Relational Data ===
+Many high-scale startups (like Airbnb or Uber) use SQL for their core transactional data.
+Today, you’ll learn why and how to bridge the gap.
+
+=== Schema-on-Write vs. Schema-on-Read ===
+1. PostgreSQL: A powerful relational database that enforces "Schema-on-Write." You cannot save data that doesn't fit the strict structure, preventing "dirty data."
+
+2. Prisma: The modern industry standard for SQL in Node.js. It gives you a "Type-safe" client, meaning if you rename a column in your DB, your code will show an error immediately (preventing runtime crashes).
+
+3. Relations: Unlike MongoDB $lookup, SQL joins are native and optimized for deeply nested relationships (e.g., User -> Organization -> Project -> Tasks).
+
+
+
+=== MICROLAB ===
+Initialize a Prisma schema with a "User" and "Post" relationship, and perform a type-safe query that fetches a user along with their latest 5 posts.
+
+>> 1. The schema (schema.prisma)
+>> 2. The script (script.ts)
