@@ -87,3 +87,4 @@
 | 10 | Webhook Architecture & Security | Trust but Verify | [Link](../Day69-Webhooks/stripeListener.js) |
 | 11 | Distributed Systems (Redlock) | The "Lease" Pattern | [Link](../Day70-Distributed-Systems/redlock.js) |
 | 12 | Serverless Architecture | Scaling to Zero | [Link](../Day71-Serverless-Cloud/lambdaHandler.js) |
+| 13 | Moving to Relational Databases | Schema-on-Write vs. Schema-on-Read | [Link](../Day72-SQL-Prisma/schema.prisma) |
