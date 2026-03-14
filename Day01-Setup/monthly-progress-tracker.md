@@ -88,3 +88,4 @@
 | 11 | Distributed Systems (Redlock) | The "Lease" Pattern | [Link](../Day70-Distributed-Systems/redlock.js) |
 | 12 | Serverless Architecture | Scaling to Zero | [Link](../Day71-Serverless-Cloud/lambdaHandler.js) |
 | 13 | Moving to Relational Databases | Schema-on-Write vs. Schema-on-Read | [Link](../Day72-SQL-Prisma/schema.prisma) |
+| 14 | Transactions & Joins | Data Atomicity | [Link](../Day73-SQL-DeepDive/transaction.ts) |
