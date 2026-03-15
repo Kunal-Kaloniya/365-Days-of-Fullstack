@@ -89,3 +89,4 @@
 | 12 | Serverless Architecture | Scaling to Zero | [Link](../Day71-Serverless-Cloud/lambdaHandler.js) |
 | 13 | Moving to Relational Databases | Schema-on-Write vs. Schema-on-Read | [Link](../Day72-SQL-Prisma/schema.prisma) |
 | 14 | Transactions & Joins | Data Atomicity | [Link](../Day73-SQL-DeepDive/transaction.ts) |
+| 15 | Compound Components | Context-Driven UI | [Link](../Day-74-React-Patterns/Toggle.tsx) |
