@@ -90,3 +90,4 @@
 | 13 | Moving to Relational Databases | Schema-on-Write vs. Schema-on-Read | [Link](../Day72-SQL-Prisma/schema.prisma) |
 | 14 | Transactions & Joins | Data Atomicity | [Link](../Day73-SQL-DeepDive/transaction.ts) |
 | 15 | Compound Components | Context-Driven UI | [Link](../Day-74-React-Patterns/Toggle.tsx) |
+| 16 | Redis Pub/Sub & Socket Cluster | Horizontal Scaling for Real-time | [Link](../Day75-Redis-Sockets/cluster-socket.js) |
