@@ -1,0 +1,34 @@
+=== Git Workflow Excellence ===
+
+When working in a team of 20+ developers,
+your git log can quickly become a graveyard of "fix bug," "typo," and "temp commit."
+
+=== Rewriting History ===
+
+1. Interactive Rebase (git rebase -i): Allows you to edit, reorder, or delete commits before they are merged. It keeps the history "linear" instead of having messy merge commits everywhere.
+
+2. Squashing: Combining 10 "work-in-progress" commits into one clean, meaningful commit (e.g., "Feat: Add OAuth2 Support").
+
+3. Cherry-picking: Taking a specific commit from one branch (like a critical hotfix on develop) and applying it to another (like main) without merging the entire branch.
+
+4. The Golden Rule: Never rebase or squash commits that have already been pushed to a shared public branch. It breaks the history for everyone else.
+
+
+
+MICROLAB
+Clean up your local feature branch. Take your last 3 "messy" commits and squash them into one.
+
+# 1. Start an interactive rebase for the last 3 commits
+git rebase -i HEAD~3
+
+# 2. In the text editor that opens:
+# Change 'pick' to 'squash' (or 's') for the 2nd and 3rd commits
+# pick 1a2b3c4 Initial layout
+# s 5d6e7f8 Fixed margin
+# s 9g0h1i2 Added icons
+
+# 3. Save and close. Git will ask for a new, single commit message.
+# "Feat: Completed Sidebar UI with icons and fixed layout"
+
+# 4. If you need to force-push to YOUR OWN branch:
+git push --force-with-lease
