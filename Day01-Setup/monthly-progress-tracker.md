@@ -91,3 +91,4 @@
 | 14 | Transactions & Joins | Data Atomicity | [Link](../Day73-SQL-DeepDive/transaction.ts) |
 | 15 | Compound Components | Context-Driven UI | [Link](../Day-74-React-Patterns/Toggle.tsx) |
 | 16 | Redis Pub/Sub & Socket Cluster | Horizontal Scaling for Real-time | [Link](../Day75-Redis-Sockets/cluster-socket.js) |
+| 17 | Git Workflow Excellence | Rewriting History | [Link](../Day76-Git-Mastery/UniqueBinarySearchTrees.java) |

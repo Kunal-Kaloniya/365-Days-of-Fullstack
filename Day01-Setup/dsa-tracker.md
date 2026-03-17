@@ -79,3 +79,4 @@
 | 14-Mar | 92 | Reverse Linked List II | Leetcode | Medium | O(n) | ✅ |
 | 15-Mar | 93 | Restore IP Addresses | Leetcode | Medium | O(n) | ✅ |
 | 16-Mar | 95 | Unique Binary Search Trees II | Leetcode | Medium | O(Catalan Number) | ✅ |
+| 17-Mar | 96 | Unique Binary Search Trees | Leetcode | Medium | O(n ^ 2) | ✅ |
