@@ -81,3 +81,4 @@
 | 16-Mar | 95 | Unique Binary Search Trees II | Leetcode | Medium | O(Catalan Number) | ✅ |
 | 17-Mar | 96 | Unique Binary Search Trees | Leetcode | Medium | O(n ^ 2) | ✅ |
 | 18-Mar | 97 | Interleaving String | Leetcode | Medium | O(m * n) | ✅ |
+| 19-Mar | 98 | Validate Binary Search Tree | Leetcode | Medium | O(n) | ✅ |

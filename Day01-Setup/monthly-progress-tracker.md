@@ -93,3 +93,4 @@
 | 16 | Redis Pub/Sub & Socket Cluster | Horizontal Scaling for Real-time | [Link](../Day75-Redis-Sockets/cluster-socket.js) |
 | 17 | Git Workflow Excellence | Rewriting History | [Link](../Day76-Git-Mastery/UniqueBinarySearchTrees.java) |
 | 18 | React Performance Optimization | The Cost of Re-rendering | [Link](../Day77-React-Perf/OptimizedList.tsx) |
+| 19 | Building a Custom Analytics Engine (ClickHouse) | Row vs. Columnar Storage | [Link](../Day78-BigData-Analytics/clickhouse-setup.ts) |
