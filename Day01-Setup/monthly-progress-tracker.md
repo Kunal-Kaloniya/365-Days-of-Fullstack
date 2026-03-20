@@ -94,3 +94,4 @@
 | 17 | Git Workflow Excellence | Rewriting History | [Link](../Day76-Git-Mastery/UniqueBinarySearchTrees.java) |
 | 18 | React Performance Optimization | The Cost of Re-rendering | [Link](../Day77-React-Perf/OptimizedList.tsx) |
 | 19 | Building a Custom Analytics Engine (ClickHouse) | Row vs. Columnar Storage | [Link](../Day78-BigData-Analytics/clickhouse-setup.ts) |
+| 20 | Multi-Tenant Database Design | Data Isolation | [Link](../Day79-SaaS-Architecture/tenantMiddleware.js) |

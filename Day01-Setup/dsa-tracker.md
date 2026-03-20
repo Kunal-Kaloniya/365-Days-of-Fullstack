@@ -82,3 +82,4 @@
 | 17-Mar | 96 | Unique Binary Search Trees | Leetcode | Medium | O(n ^ 2) | ✅ |
 | 18-Mar | 97 | Interleaving String | Leetcode | Medium | O(m * n) | ✅ |
 | 19-Mar | 98 | Validate Binary Search Tree | Leetcode | Medium | O(n) | ✅ |
+| 20-Mar | 99 | Recover Binary Search Tree | Leetcode | Medium | O(n) | ✅ |
