@@ -84,3 +84,4 @@
 | 19-Mar | 98 | Validate Binary Search Tree | Leetcode | Medium | O(n) | ✅ |
 | 20-Mar | 99 | Recover Binary Search Tree | Leetcode | Medium | O(n) | ✅ |
 | 21-Mar | 101 | Symmetric Tree | Leetcode | Easy | O(n) | ✅ |
+| 22-Mar | 4 | Median of Two Sorted Arrays | Leetcode | Hard | O(log(min(m, n))) | ✅ |

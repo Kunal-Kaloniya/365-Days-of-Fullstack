@@ -96,3 +96,4 @@
 | 19 | Building a Custom Analytics Engine (ClickHouse) | Row vs. Columnar Storage | [Link](../Day78-BigData-Analytics/clickhouse-setup.ts) |
 | 20 | Multi-Tenant Database Design | Data Isolation | [Link](../Day79-SaaS-Architecture/tenantMiddleware.js) |
 | 21 | Custom Meta-Framework (Routing from Scratch) | The Router Tree | [Link](../Day80-Framework-Design/mini-router.js) |
+| 22 | Internal Package Management | Semantic Versioning (SemVer) | [Link](../Day81-Shared-Packages/shared-logic/) |
