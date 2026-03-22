@@ -1,0 +1,9 @@
+export const VALIDATION_LIMITS = {
+    MIN_PASSWORD_LENGTH: 8,
+    MAX_PRODUCT_NAME: 100
+};
+
+export const ERROR_CODES = {
+    UNAUTHORIZED: 'AUTH_001',
+    INSUFFICIENT_FUNDS: 'PAY_002'
+};
