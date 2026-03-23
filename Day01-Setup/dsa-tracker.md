@@ -85,3 +85,4 @@
 | 20-Mar | 99 | Recover Binary Search Tree | Leetcode | Medium | O(n) | ✅ |
 | 21-Mar | 101 | Symmetric Tree | Leetcode | Easy | O(n) | ✅ |
 | 22-Mar | 4 | Median of Two Sorted Arrays | Leetcode | Hard | O(log(min(m, n))) | ✅ |
+| 23-Mar | 102 | Binary Tree Level Order Traversal | Leetcode | Medium | O(n) | ✅ |
