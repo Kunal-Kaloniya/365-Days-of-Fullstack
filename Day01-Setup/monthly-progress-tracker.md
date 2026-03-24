@@ -98,3 +98,4 @@
 | 21 | Custom Meta-Framework (Routing from Scratch) | The Router Tree | [Link](../Day80-Framework-Design/mini-router.js) |
 | 22 | Internal Package Management | Semantic Versioning (SemVer) | [Link](../Day81-Shared-Packages/shared-logic/) |
 | 23 | The Sidecar Pattern | Separations of Concerns (Infrastructure) | [Link](../Day82-Sidecar-Architecture/logger.js) |
+| 24 | The Dehydration Pattern | Seamless State Transfer | [Link](../Day83-SSR-Prefetching/ProductPage.tsx) |
