@@ -99,3 +99,4 @@
 | 22 | Internal Package Management | Semantic Versioning (SemVer) | [Link](../Day81-Shared-Packages/shared-logic/) |
 | 23 | The Sidecar Pattern | Separations of Concerns (Infrastructure) | [Link](../Day82-Sidecar-Architecture/logger.js) |
 | 24 | The Dehydration Pattern | Seamless State Transfer | [Link](../Day83-SSR-Prefetching/ProductPage.tsx) |
+| 25 | CI/CD for Microservices | Path-Based Deploys | [Link](../Day84-Microservices-DevOps/todaysTopic.txt) |

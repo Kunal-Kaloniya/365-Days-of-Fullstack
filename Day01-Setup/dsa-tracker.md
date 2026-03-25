@@ -87,3 +87,4 @@
 | 22-Mar | 4 | Median of Two Sorted Arrays | Leetcode | Hard | O(log(min(m, n))) | ✅ |
 | 23-Mar | 102 | Binary Tree Level Order Traversal | Leetcode | Medium | O(n) | ✅ |
 | 24-Mar | 103 | Binary Tree Zigzag Level Order Traversal | Leetcode | Medium | O(n) | ✅ |
+| 25-Mar | 10 | Regular Expression Matching | Leetcode | Hard | O(T * P) | ✅ |
