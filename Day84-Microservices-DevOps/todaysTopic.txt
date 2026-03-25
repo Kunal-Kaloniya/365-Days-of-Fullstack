@@ -1,0 +1,15 @@
+=== CI/CD for Microservices ===
+When you move from a Monolith to microservices (Day 60), a single GitHub Action isn't enough.
+You don't want to redeploy the "Auth Service" every time you change a line in the "Payment Service".
+
+=== Path-Based Deploys ===
+1. The Problem: A single repository (Monorepo) with 5 services leads to 5x the build time and 5x the deployment risk.
+2. The Solution: Use Path Filters in your YAML configuration. The pipeline only triggers for a specific service if files within that service's folder have changed.
+3. Matrix Builds: Running tests for multiple services or multiple Node.js versions in parallel to save time.
+4. Semantic Tagging: Automatically tagging Docker images with the short SHA of that commit (e.g., auth-service:a1b2c3d) to ensure you can always roll back to a specific version.
+
+
+=== MICROLAB ===
+Write a GitHub Action snippet that only triggers a build for the orders-service when changes are detected in its subdirectory.
+
+./orders-ci.yml
