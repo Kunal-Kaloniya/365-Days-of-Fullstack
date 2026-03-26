@@ -100,3 +100,4 @@
 | 23 | The Sidecar Pattern | Separations of Concerns (Infrastructure) | [Link](../Day82-Sidecar-Architecture/logger.js) |
 | 24 | The Dehydration Pattern | Seamless State Transfer | [Link](../Day83-SSR-Prefetching/ProductPage.tsx) |
 | 25 | CI/CD for Microservices | Path-Based Deploys | [Link](../Day84-Microservices-DevOps/todaysTopic.txt) |
+| 26 | System Design - The Edge Layer | Stale-While-Revalidate (SWR) at the Edge | [Link](../Day85-Edge-Caching/cdn-headers.js) |

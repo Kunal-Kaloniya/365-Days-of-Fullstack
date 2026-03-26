@@ -88,3 +88,4 @@
 | 23-Mar | 102 | Binary Tree Level Order Traversal | Leetcode | Medium | O(n) | ✅ |
 | 24-Mar | 103 | Binary Tree Zigzag Level Order Traversal | Leetcode | Medium | O(n) | ✅ |
 | 25-Mar | 10 | Regular Expression Matching | Leetcode | Hard | O(T * P) | ✅ |
+| 26-Mar | 104 | Maximum Depth of Binary Tree | Leetcode | Easy | O(n) | ✅ |
