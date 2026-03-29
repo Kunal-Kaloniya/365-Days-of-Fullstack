@@ -1,0 +1,18 @@
+=== Composite & Covering Indexes ===
+When you run a query like WHERE city = 'Delhi' AND age > 25, a single index on city helps,
+but the database still has to manually filter the age for every person in Delhi.
+
+=== The Rule of Left-to-Right ===
+1. Composite Index: An index on multiple columns, e.g., (city, age).
+
+2. The "Prefix" Rule: A (A, B, C) index can speed up queries for (A), (A, B), and (A, B, C). It cannot help with a query for just (B) or (C).
+
+3. Covering Index: The "Holy Grail" of performance. If your index contains all the data the SELECT statement needs (e.g., SELECT age FROM users WHERE city = 'Delhi'), the database never even touches the actual table—it stays entirely in the lightning-fast index memory.
+
+4. Index Selectivity: Always put the column with the "most unique" values first to narrow down the search results faster.
+
+
+=== MICROLAB ===
+Analyze a slow query and design a composite index that "covers" the query to prevent a disk-heavy table scan.
+
+./composite-index.sql
