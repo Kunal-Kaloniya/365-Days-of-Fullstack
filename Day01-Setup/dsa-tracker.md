@@ -92,3 +92,4 @@
 | 27-Mar | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Leetcode | Medium | O(n) | ✅ |
 | 28-Mar | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Leetcode | Medium | O(n) | ✅ |
 | 29-Mar | 107 | Binary Tree Level Order Traversal II | Leetcode | Medium | O(n) | ✅ |
+| 30-Mar | 108 | Convert Sorted Array to Binary Search Tree | Leetcode | Easy | O(n) | ✅ |

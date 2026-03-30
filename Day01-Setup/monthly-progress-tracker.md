@@ -104,3 +104,4 @@
 | 27 | Database Sharding | The Shard Key | [Link](../Day86-DB-Sharding/shradRouter.js) |
 | 28 | Sharding Proxies & Vitess | The "VTGate" & Vindex | [Link](../Day87-Advanced-Sharding/search-sync.js) |
 | 29 | Composite & Covering Indexed (SQL) | The rule of left-to-right | [Link](../Day88-DB-Optimization-SQL/todaysTopic.txt) |
+| 30 | Concurrency Control | Locking Strategies | [Link](../Day89-Concurrency/optimistic-lock.ts) |
