@@ -106,3 +106,9 @@
 | 29 | Composite & Covering Indexed (SQL) | The rule of left-to-right | [Link](../Day88-DB-Optimization-SQL/todaysTopic.txt) |
 | 30 | Concurrency Control | Locking Strategies | [Link](../Day89-Concurrency/optimistic-lock.ts) |
 | 31 | Distributed Transactions (Sagas) | The Saga Pattern | [Link](../Day90-Distributed-Systems/saga-revert.ts) |
+
+### April
+
+| Day | Topic | Key Takeaway | Code Link |
+| :--- | :--- | :--- | :--- |
+| 01 | API Gateway vs. Service Mesh | Traffic Management | [Link](../Day91-Service-Mesh/todaysTopic.txt) |

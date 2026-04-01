@@ -94,3 +94,5 @@
 | 29-Mar | 107 | Binary Tree Level Order Traversal II | Leetcode | Medium | O(n) | ✅ |
 | 30-Mar | 108 | Convert Sorted Array to Binary Search Tree | Leetcode | Easy | O(n) | ✅ |
 | 31-Mar | 109 | Convert Sorted List to Binary Search Tree | Leetcode | Easy | O(nlogn) | ✅ |
+| === | === | === | === | === | === | === |
+| 01-April | 110 | Balanced Binary Tree | Leetcode | Easy | O(n) | ✅ |
