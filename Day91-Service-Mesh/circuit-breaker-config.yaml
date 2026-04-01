@@ -1,0 +1,13 @@
+# Conceptual Istio DestinationRule
+apiVersion: networking.istio.io/v1alpha3
+kind: DestinationRule
+metadata:
+  name: inventory-circuit-breaker
+spec:
+  host: inventory-service
+  trafficPolicy:
+    outlierDetection:
+      consecutive5xxErrors: 5       # If 5 errors in a row
+      interval: 10s                 # Check every 10 seconds
+      baseEjectionTime: 30s         # Kick it out of the mesh for 30s
+      maxEjectionPercent: 100       # Eject all failing instances

@@ -1,0 +1,20 @@
+=== API Gateway vs. Service Mesh ===
+As your app grows from 5 to 50 microservices, managing "North-South" (External to Internal)
+and "East-West" (Service to Service) traffic becomes a nightmare.
+
+=== Traffic Management ===
+1. API Gateway (North-South): The "Front Door". It sits between the user and your services.
+    (a) Responsibilities: Authentication, Rate Limiting, SSL  Termination, and Request Routing.
+    (b) Tools: Kong, AWS API Gateway, Nginx.
+
+2. Service Mesh (East-West): The "Internal Nervous System". It manages communication between your services.
+    (a) The Sidecar Proxy: Every service gets a small "helper" (like Envoy) that handles the network.
+    (b) Responsibilities: Service Discovery, Retries/Timeouts, Circuit Breaking, and Mutual TLS (mTLS) for internal security.
+    (c) tools: Istio, Linkerd.
+
+
+=== MICROLAB ===
+Conceptualize a "Circuit Breaker" in a Service Mesh.
+If the "Inventory Service" is slow, the mesh should stop sending requests to it for 30 seconds to prevent a "Cascading Failure".
+
+./circuit-breaker-config.yaml
