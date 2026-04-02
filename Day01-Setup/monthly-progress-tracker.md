@@ -112,3 +112,4 @@
 | Day | Topic | Key Takeaway | Code Link |
 | :--- | :--- | :--- | :--- |
 | 01 | API Gateway vs. Service Mesh | Traffic Management | [Link](../Day91-Service-Mesh/todaysTopic.txt) |
+| 02 | Caching Strategies | Write Patterns | [Link](../Day92-Caching-Patterns/write-bakc-logic.ts) |

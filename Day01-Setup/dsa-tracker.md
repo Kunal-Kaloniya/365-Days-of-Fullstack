@@ -96,3 +96,4 @@
 | 31-Mar | 109 | Convert Sorted List to Binary Search Tree | Leetcode | Easy | O(nlogn) | ✅ |
 | === | === | === | === | === | === | === |
 | 01-April | 110 | Balanced Binary Tree | Leetcode | Easy | O(n) | ✅ |
+| 02-April | 111 | Minimum Depth of Binary Tree | Leetcode | Easy | O(n) | ✅ |
