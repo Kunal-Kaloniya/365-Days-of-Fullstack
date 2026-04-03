@@ -113,3 +113,4 @@
 | :--- | :--- | :--- | :--- |
 | 01 | API Gateway vs. Service Mesh | Traffic Management | [Link](../Day91-Service-Mesh/todaysTopic.txt) |
 | 02 | Caching Strategies | Write Patterns | [Link](../Day92-Caching-Patterns/write-bakc-logic.ts) |
+| 03 | Read Replicas vs. Sharding | Scaling the "Read" vs. the "Write" | [Link](../Day93-Database-Scaling/read-write-split.ts) |

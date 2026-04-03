@@ -97,3 +97,4 @@
 | === | === | === | === | === | === | === |
 | 01-April | 110 | Balanced Binary Tree | Leetcode | Easy | O(n) | ✅ |
 | 02-April | 111 | Minimum Depth of Binary Tree | Leetcode | Easy | O(n) | ✅ |
+| 03-April | 112 | Path Sum | Leetcode | Easy | O(n) | ✅ |
