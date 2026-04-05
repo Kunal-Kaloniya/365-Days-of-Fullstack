@@ -99,3 +99,4 @@
 | 02-April | 111 | Minimum Depth of Binary Tree | Leetcode | Easy | O(n) | ✅ |
 | 03-April | 112 | Path Sum | Leetcode | Easy | O(n) | ✅ |
 | 04-April | 113 | Path Sum II | Leetcode | Medium | O(n) | ✅ |
+| 05-April | 114 | Flatten Binary Tree to Linked List | Leetcode | Medium | O(n) | ✅ |
