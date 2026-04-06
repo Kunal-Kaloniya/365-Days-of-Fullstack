@@ -116,3 +116,4 @@
 | 03 | Read Replicas vs. Sharding | Scaling the "Read" vs. the "Write" | [Link](../Day93-Database-Scaling/read-write-split.ts) |
 | 04 | B-Trees vs. LSM Trees | Storage Engines | [Link](../Day94-Storage-Engines/hybrid-db.ts) |
 | 05 | Zero-Downtime Migrations | The Migration Pipeline | [Link](../Day95-Migrations/add-last-login.js) |
+| 06 | Analytics at Scale | OLAP (Online Analytical Processing) | [Link](../Day96-BigData/cdc-pipeline.ts) |

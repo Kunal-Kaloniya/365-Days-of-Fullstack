@@ -100,3 +100,4 @@
 | 03-April | 112 | Path Sum | Leetcode | Easy | O(n) | ✅ |
 | 04-April | 113 | Path Sum II | Leetcode | Medium | O(n) | ✅ |
 | 05-April | 114 | Flatten Binary Tree to Linked List | Leetcode | Medium | O(n) | ✅ |
+| 06-April | 116 | Populating Next Right Pointers in Each Node | Leetcode | Medium | O(n) | ✅ |
