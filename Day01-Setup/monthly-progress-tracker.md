@@ -117,3 +117,4 @@
 | 04 | B-Trees vs. LSM Trees | Storage Engines | [Link](../Day94-Storage-Engines/hybrid-db.ts) |
 | 05 | Zero-Downtime Migrations | The Migration Pipeline | [Link](../Day95-Migrations/add-last-login.js) |
 | 06 | Analytics at Scale | OLAP (Online Analytical Processing) | [Link](../Day96-BigData/cdc-pipeline.ts) |
+| 07 | The Event Backbone | Pub/Sub & Log Aggregation | [Link](../Day97-Event-Driven/message-queue.ts) |
