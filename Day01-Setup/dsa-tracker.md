@@ -102,3 +102,4 @@
 | 05-April | 114 | Flatten Binary Tree to Linked List | Leetcode | Medium | O(n) | ✅ |
 | 06-April | 116 | Populating Next Right Pointers in Each Node | Leetcode | Medium | O(n) | ✅ |
 | 07-April | 117 | Populating Next Right Pointers in Each Node II | Leetcode | Medium | O(n) | ✅ |
+| 08-April | 118 | Pascal's Triangle | Leetcode | Easy | O(n^2) | ✅ |
