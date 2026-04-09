@@ -103,3 +103,4 @@
 | 06-April | 116 | Populating Next Right Pointers in Each Node | Leetcode | Medium | O(n) | ✅ |
 | 07-April | 117 | Populating Next Right Pointers in Each Node II | Leetcode | Medium | O(n) | ✅ |
 | 08-April | 118 | Pascal's Triangle | Leetcode | Easy | O(n^2) | ✅ |
+| 09-April | 119 | Pascal's Triangle II | Leetcode | Easy | O(k^2) | ✅ |

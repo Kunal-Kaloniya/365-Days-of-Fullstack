@@ -119,3 +119,4 @@
 | 06 | Analytics at Scale | OLAP (Online Analytical Processing) | [Link](../Day96-BigData/cdc-pipeline.ts) |
 | 07 | The Event Backbone | Pub/Sub & Log Aggregation | [Link](../Day97-Event-Driven/message-queue.ts) |
 | 08 | Real-Time Communication | The Full-Duplex Connection | [Link](../Day98-Realtime/socket-server.ts) |
+| 09 | Load Balancing Algorithms | Distribution Logic | [Link](../Day99-Infrastructure/health-check.ts) |
