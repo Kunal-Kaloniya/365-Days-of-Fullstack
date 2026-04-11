@@ -1,0 +1,17 @@
+=== The Container Revolution ===
+Before Docker, we had "It works on my machine" syndrome.
+Docker solved this by packaging the code, the runtime, and the dependencies into a single Image.
+
+=== Docker Architecture ===
+1. The Image: A read-only template (like a Class in OOP).
+
+2. The Container: A running instance of an image (like an Object).
+
+3. Layer Caching: Docker builds images in layers. If you only change one line of code, Docker only rebuilds that layer, making deployments lightning-fast.
+
+4. Isolation: Containers share the host OS kernel but have their own file system, network, and process space. This is much lighter than a Virtual Machine (VM).
+
+
+=== MICROLAB ===
+Create a production-ready Multi-Stage Dockerfile for your MERN backend.
+This is a "Senior" move because it results in a tiny image by throwing away the "Build" tools and only keeping the "Runtime."
