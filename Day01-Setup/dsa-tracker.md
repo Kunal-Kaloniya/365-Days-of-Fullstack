@@ -105,3 +105,4 @@
 | 08-April | 118 | Pascal's Triangle | Leetcode | Easy | O(n^2) | ✅ |
 | 09-April | 119 | Pascal's Triangle II | Leetcode | Easy | O(k^2) | ✅ |
 | 10-April | 120 | Triangle | Leetcode | Medium | O(n^2) | ✅ |
+| 11-April | 121 | Best Time to Buy and Sell Stock | Leetcode | Easy | O(n) | ✅ |
