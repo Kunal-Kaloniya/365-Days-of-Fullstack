@@ -122,3 +122,4 @@
 | 09 | Load Balancing Algorithms | Distribution Logic | [Link](../Day99-Infrastructure/health-check.ts) |
 | 10 | Designing a Global Video Streamer (The "Netflix" Model) | The architecture | [Link](../Day100-The-Big-One/bitrate-logic.ts) |
 | 11 | The Container Revolution | Docker Architecture | [Link](../Day101-Cloud-Native/todaysTopic.txt) |
+| 12 | Orchestrating the "Neighborhood" | Infrastructure as Code (Local) | [Link](../Day102-Cloud-Native/todaysTopic.txt) |
