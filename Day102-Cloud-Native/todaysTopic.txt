@@ -1,0 +1,19 @@
+=== Orchestrating the "Neighborhood" ===
+Running five docker run commands manually is a recipe for disaster.
+You’ll forget a network bridge or an environment variable.
+
+=== Infrastructure as Code (Local) ===
+1. The YAML Manifest: A single file (docker-compose.yml) that defines your entire stack.
+
+2. Service Networking: Docker Compose automatically creates a private network. Your Backend can talk to your DB using the name db:5432 instead of a shifting IP address.
+
+3. Volumes: Containers are ephemeral (they lose data when they stop). Volumes "map" a folder on your laptop to a folder in the container so your database data survives a restart.
+
+4. Environment Injection: Centrally managing .env files across multiple services.
+
+
+=== MICROLAB ===
+Create a docker-compose.yml that links your Node.js API with a MongoDB instance
+and ensures the data persists even if the container is deleted.
+
+./docker-compose.yml
