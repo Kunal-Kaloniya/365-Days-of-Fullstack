@@ -123,3 +123,4 @@
 | 10 | Designing a Global Video Streamer (The "Netflix" Model) | The architecture | [Link](../Day100-The-Big-One/bitrate-logic.ts) |
 | 11 | The Container Revolution | Docker Architecture | [Link](../Day101-Cloud-Native/todaysTopic.txt) |
 | 12 | Orchestrating the "Neighborhood" | Infrastructure as Code (Local) | [Link](../Day102-Cloud-Native/todaysTopic.txt) |
+| 13 | The Docker "Underworld" | Persistence and Isolation | [Link](../Day103-Cloud-Native/todaysTopic.txt) |
