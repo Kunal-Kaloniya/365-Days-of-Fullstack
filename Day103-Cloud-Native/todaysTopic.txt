@@ -1,0 +1,18 @@
+=== The Docker "Underworld" ===
+A container is a "sandbox." If you delete the sandbox, the sand (your data) disappears.
+We use Volumes to give containers a permanent memory and Networking to give them a private phone line.
+
+=== Persistence and Isolation ===
+1. Bind Mounts: Maps a specific path on your host (e.g., C:/project/logs) to the container. Great for development so you can see code changes live.
+
+2. Named Volumes: Managed by Docker. You don't care where the data is on your hard drive; you just know it’s safe. Use this for Production Databases.
+
+3. Bridge Networks: The default. It allows containers on the same host to talk to each other.
+
+4. Network Isolation: In a Senior setup, the Database is on a backend-network (invisible to the internet), while the Nginx/API is on both the frontend-network (public) and backend-network.
+
+
+=== MICROLAB ===
+Configure a "Hardened" network in Docker Compose where the database is completely unreachable from your laptop, but the API can still talk to it.
+
+./hardened-stack.yml

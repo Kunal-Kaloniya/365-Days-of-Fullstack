@@ -1,0 +1,20 @@
+services:
+  api:
+    build: .
+    networks:
+      - public
+      - private
+  db:
+    image: postgres:alpine
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    networks:
+      - private  # API can see DB, but your browser cannot!
+
+networks:
+  public:
+  private:
+    internal: true # Explicitly restricts external access
+
+volumes:
+  db-data:
