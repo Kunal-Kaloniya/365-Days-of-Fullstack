@@ -108,3 +108,4 @@
 | 11-April | 121 | Best Time to Buy and Sell Stock | Leetcode | Easy | O(n) | ✅ |
 | 12-April | 122 | Best Time to Buy and Sell Stock II | Leetcode | Medium | O(n) | ✅ |
 | 13-April | 127 | Word Ladder | Leetcode | Hard | O(m^2 * n) | ✅ |
+| 14-April | 125 | valid Palindrome | Leetcode | Easy | O(n) | ✅ |
