@@ -1,0 +1,15 @@
+=== The Shipping Port (Registries) ===
+Think of Docker Hub or AWS ECR (Elastic Container Registry) as the "GitHub for Images."
+
+=== Image Lifecycle & Tagging ===
+1. The Registry: A centralized place where you "Push" images from your CI/CD pipeline and "Pull" images to your production servers.
+
+2. Semantic Tagging: Never use the latest tag in production.
+    (a) Bad: my-app:latest (You don't know which version it is).
+    (b) Good: my-app:v1.2.3 or my-app:sha-a1b2c3d.
+
+3. Vulnerability Scanning: High-end registries (like Harbor or ECR) automatically scan your images for security holes in your npm packages or OS layers before you deploy.
+
+
+=== MICROLAB ===
+Simulate the "Senior" workflow: Build a tagged image, log in to a registry, and prepare it for deployment.
