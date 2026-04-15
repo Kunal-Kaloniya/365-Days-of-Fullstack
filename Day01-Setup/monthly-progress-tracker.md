@@ -125,3 +125,4 @@
 | 12 | Orchestrating the "Neighborhood" | Infrastructure as Code (Local) | [Link](../Day102-Cloud-Native/todaysTopic.txt) |
 | 13 | The Docker "Underworld" | Persistence and Isolation | [Link](../Day103-Cloud-Native/todaysTopic.txt) |
 | 14 | The Shipping Port (Registries) | Image Lifecycle & Tagging | [Link](../Day104-Cloud-Native/todaysTopic.txt) |
+| 15 | The Kubernetes Ecosystem | Pods, Nodes, and Control Planes | [Link](../Day105-Cloud-Native/todaysTopic.txt) |
