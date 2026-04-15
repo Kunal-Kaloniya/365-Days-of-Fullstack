@@ -1,0 +1,19 @@
+=== The Kubernetes Ecosystem ===
+Kubernetes is a platform for managing containerized workloads.
+It’s complex, but its goal is simple: Desired State Management.
+
+=== Pods, Nodes, and Control Planes ===
+1. The Cluster: A collection of machines (Nodes).
+
+2. The Pod: The smallest unit in K8s. It’s a "wrapper" around one or more containers. You never run a container directly; you run a Pod.
+
+3. The Node (Worker): A machine (VM or Physical) where Pods run.
+
+4. The Control Plane: The "Brain" that decides which Node should run which Pod based on available RAM and CPU.
+
+5. Self-Healing: If a Pod crashes, K8s restarts it. If a Node dies, K8s moves all its Pods to a healthy Node.
+
+
+=== MICROLAB ===
+Conceptualize a Kubernetes Deployment manifest.
+This file tells K8s: "I want 3 copies of my API running at all times."
