@@ -110,3 +110,4 @@
 | 13-April | 127 | Word Ladder | Leetcode | Hard | O(m^2 * n) | ✅ |
 | 14-April | 125 | Valid Palindrome | Leetcode | Easy | O(n) | ✅ |
 | 15-April | 128 | Longest Consecutive Sequence | Leetcode | Medium | O(n) | ✅ |
+| 16-April | 129 | Sum Root to Leaf Numbers | Leetcode | Medium | O(n) | ✅ |
