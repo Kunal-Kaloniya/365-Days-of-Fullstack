@@ -1,0 +1,17 @@
+=== K8s Services & Networking ===
+If a Deployment is a group of workers, a Service is the manager with the permanent office phone number.
+
+=== Stable Endpoints ===
+1. ClusterIP (Internal): The default. It gives your microservice an internal name (e.g., auth-service) that other Pods in the cluster can use. It is not accessible from outside the cluster.
+
+2. NodePort: Opens a specific port on every Node (machine) in your cluster. Useful for testing, but rarely used in high-level production.
+
+3. LoadBalancer: The "Enterprise" choice. It automatically provisions a Real Cloud Load Balancer (AWS ELB, GCP LB) that routes external traffic into your cluster.
+
+4. Selectors & Labels: This is the "Glue." A Service finds its Pods by looking for specific labels (e.g., app: my-api). It doesn't care about IPs; it only cares about labels.
+
+
+=== MICROLAB ===
+Create a Service manifest that acts as a Load Balancer for your Day 105 Deployment.
+
+./deployment.yaml
