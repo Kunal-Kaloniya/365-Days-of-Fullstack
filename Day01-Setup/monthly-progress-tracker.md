@@ -127,3 +127,4 @@
 | 14 | The Shipping Port (Registries) | Image Lifecycle & Tagging | [Link](../Day104-Cloud-Native/todaysTopic.txt) |
 | 15 | The Kubernetes Ecosystem | Pods, Nodes, and Control Planes | [Link](../Day105-Cloud-Native/todaysTopic.txt) |
 | 16 | K8s Services & Networking | Stable Endpoints | [Link](../Day106-Cloud-Native/todaysTopic.txt) |
+| 17 | ConfigMaps vs. Secrets | Externalizing Configuration | [Link](../Day107-Cloud-Native/todaysTopic.txt) |
