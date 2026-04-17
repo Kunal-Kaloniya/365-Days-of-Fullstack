@@ -1,0 +1,16 @@
+=== ConfigMaps vs. Secrets ===
+Your app needs to know its database URL (Config) and its database password (Secret).
+
+=== Externalizing Configuration ===
+1. ConfigMaps: For non-sensitive data (e.g., LOG_LEVEL: "info", PORT: 8080).
+
+2. Secrets: For sensitive data (e.g., API Keys, Database Passwords).
+    Note: By default, K8s Secrets are only Base64 encoded, not encrypted. In production, you'd use a provider like AWS KMS or HashiCorp Vault.
+
+3. The "Mounting" Strategy: You can inject these into your Pods as Environment Variables or as Files inside a volume.
+
+
+=== MICROLAB ===
+Create a Secret and a ConfigMap and inject them into your Day 105 Deployment.
+
+./config-management.yaml
