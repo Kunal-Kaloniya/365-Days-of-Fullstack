@@ -112,3 +112,4 @@
 | 15-April | 128 | Longest Consecutive Sequence | Leetcode | Medium | O(n) | ✅ |
 | 16-April | 129 | Sum Root to Leaf Numbers | Leetcode | Medium | O(n) | ✅ |
 | 17-April | 130 | Surrounded Regions | Leetcode | Medium | O(n) | ✅ |
+| 18-April | 131 | Palindrome Partitioning | Leetcode | Medium | O(n * 2^n) | ✅ |
