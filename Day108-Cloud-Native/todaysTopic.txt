@@ -1,0 +1,18 @@
+=== Kubernetes Ingress ===
+If a Service is a phone extension, Ingress is the automated receptionist
+that routes you to "Billing" or "Support" based on what you ask for.
+
+=== L7 Routing ===
+1. The Controller: Ingress requires a "Controller" (usually Nginx or Traefik) to actually move the traffic.
+
+2. Path-Based Routing: myapp.com/api goes to the Backend Service, while myapp.com/ goes to the Frontend Service.
+
+3. Host-Based Routing: api.myapp.com goes to one service, and dashboard.myapp.com goes to another.
+
+4. SSL Termination: Ingress handles your HTTPS certificates in one central place, so your individual microservices don't have to deal with SSL.
+
+
+=== MICROLAB ===
+Create an Ingress manifest that routes traffic to your api-service based on a specific URL path.
+
+./ingress.yaml
