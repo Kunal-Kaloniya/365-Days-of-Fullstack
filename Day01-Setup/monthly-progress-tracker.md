@@ -129,3 +129,4 @@
 | 16 | K8s Services & Networking | Stable Endpoints | [Link](../Day106-Cloud-Native/todaysTopic.txt) |
 | 17 | ConfigMaps vs. Secrets | Externalizing Configuration | [Link](../Day107-Cloud-Native/todaysTopic.txt) |
 | 18 | Kubernetes Ingress | L7 Routing | [Link](../Day108-Cloud-Native/todaysTopic.txt) |
+| 19 | Helm & Templating | Don't Repeat Yourself (DRY) | [Link](../Day109-Cloud-Native/todaysTopic.txt) |
