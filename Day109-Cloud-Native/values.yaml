@@ -1,0 +1,4 @@
+replicaCount: 3
+image:
+  repository: aryan/api-service
+  tag: 1.0.0

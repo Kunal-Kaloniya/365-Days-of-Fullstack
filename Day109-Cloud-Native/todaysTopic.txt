@@ -1,0 +1,16 @@
+=== Helm & Templating ===
+If Kubernetes is the OS, Helm is the "App Store" or npm.
+
+=== Don't Repeat Yourself (DRY) ===
+1. Charts: A collection of files that describe a related set of Kubernetes resources.
+
+2. Values.yaml: Instead of hardcoding values in your YAMLs, you use placeholders like {{ .Values.replicaCount }}. You keep one set of templates and just swap the values.yaml for Dev, Staging, and Production.
+
+3. Release Management: Helm tracks your installations. If a new deployment fails, you can run helm rollback to instantly return to the previous stable state of your entire stack.
+
+
+=== MICROLAB ===
+Create a basic Helm structure and template your Deployment from Day 105.
+
+/my-app/templates/deployment.yaml
+/my-app/values.yaml
